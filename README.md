@@ -21,3 +21,6 @@
 
 ![Emi](ASSETS/Emi_Photo.PNG)
 
+# ENTREGABLES 
+
+[IDK](mds/apuntes.md)
