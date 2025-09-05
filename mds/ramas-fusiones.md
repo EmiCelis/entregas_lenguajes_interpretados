@@ -1,13 +1,5 @@
 # Asignaturas 3DEVs
 
-## Diseño De Videojuegos
-
-### OLIVAR ARAUJO ANA GUADALUPE
-
-En esta materia hemos visto las bases para la pre-producción de un videojuego en cuanto al diseño de niveles, narrativa, estetica entre otros.
-
-![DDV](../ASSETS/ddv.jpg)
-
 ## Principios de Composición y Diseño
 
 ### MELO ORTIZ D ORA ROBERTO
