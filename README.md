@@ -23,4 +23,6 @@
 
 # ENTREGABLES 
 
-[IDK](mds/apuntes.md)
+[Apuntes](mds/apuntes.md)
+
+[Practica 2](mds/ramas-fusiones.md)
