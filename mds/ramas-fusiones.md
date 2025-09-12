@@ -10,11 +10,15 @@ Los temas generales de la materia hablan un poco sobre la teoria de imagen en cu
 
 ### OLIVAR ARAUJO ANA GUADALUPE
 
+## Diseño de Videojuegos
+
 En esta materia hemos visto las bases para la pre-producción de un videojuego en cuanto al diseño de niveles, narrativa, estetica entre otros.
 
 ![DDV](../ASSETS/ddv.jpg)
 
 ### ARBONA GARCIA ALCIDES
+
+## Sistemas Operativos y Redes 
 
 Temas generales relacionados a los sistemas operativos desde Windows, Linux, Mac, entre otros. A la par de ver como es que se aplican en otros medios sinedo más eficientes o no.
 
