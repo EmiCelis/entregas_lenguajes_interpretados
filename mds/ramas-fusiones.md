@@ -24,4 +24,10 @@ Temas generales relacionados a los sistemas operativos desde Windows, Linux, Mac
 
 ![SOR](../ASSETS/sor.png)
 
-### 
+### 	MIRANDA CHARLES JONATHAN ULISES
+
+## Programación En Lenguajes Interpretados	
+
+Programacion orientada a medios digitales web html aplicado con herramientas como Visual Studio Code, Git, Git-Bash, Node.js, CSS, etc.
+
+![PLI](../ASSETS/pli.jpg)
