@@ -31,3 +31,11 @@ Temas generales relacionados a los sistemas operativos desde Windows, Linux, Mac
 Vemos la programación dirigida a objetos directamente a la implementación en aplicaciones interactivas para hacer juegos moviles.
 
 ![DAI](../ASSETS/dai.jpg)
+
+### 	MIRANDA CHARLES JONATHAN ULISES
+
+## Programación En Lenguajes Interpretados	
+
+Programacion orientada a medios digitales web html aplicado con herramientas como Visual Studio Code, Git, Git-Bash, Node.js, CSS, etc.
+
+![PLI](../ASSETS/pli.jpg)
