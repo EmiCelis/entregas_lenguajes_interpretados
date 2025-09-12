@@ -24,4 +24,10 @@ Temas generales relacionados a los sistemas operativos desde Windows, Linux, Mac
 
 ![SOR](../ASSETS/sor.png)
 
-### 
+### GUERRERO TRONCOSO EDUARDO IGNACIO
+
+## Proyecto Semestral: Desarrollo de Aplicaciones Interactivas
+
+Vemos la programación dirigida a objetos directamente a la implementación en aplicaciones interactivas para hacer juegos moviles.
+
+![DAI](../ASSETS/dai.jpg)
