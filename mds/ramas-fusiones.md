@@ -14,4 +14,8 @@ En esta materia hemos visto las bases para la pre-producción de un videojuego e
 
 ![DDV](../ASSETS/ddv.jpg)
 
-### 
+### MIRANDA CHARLES JONATHAN ULISES
+
+Temas generales relacionados a los sistemas operativos desde Windows, Linux, Mac, entre otros. A la par de ver como es que se aplican en otros medios sinedo más eficientes o no.
+
+![SOR](../ASSETS/sor.png)
