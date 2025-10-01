@@ -30,3 +30,7 @@
 [Practica 3](mds/etiquetas.md)
 
 [Practica 4](mds/primer-parcial.md)
+
+[Practica 6](mds/videojuego.md)
+
+[Practica 7](https://emicelis.github.io/entregas_lenguajes_interpretados/practica-7.html)
